@@ -4,6 +4,9 @@ print('Tercera LOC local')
 print('Cuarta LOC rama ajuste')
 print('Solicitud de cambio desde rama ajuste')
 print('Necesito que se considere este cambio')
+print('Nuevo cambio desde rama ajuste, favor de revisar')
+
+
 
 
 
